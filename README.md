@@ -18,3 +18,8 @@
 
 6\. Run the generated JAR file.
 
+
+
+## Merge Practice
+
+This section demonstrates merge commits.
