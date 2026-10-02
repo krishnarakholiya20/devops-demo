@@ -1,0 +1,3 @@
+## Rebase Practice
+
+This section is created for practicing Git rebase.
