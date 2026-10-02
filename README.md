@@ -18,3 +18,7 @@
 
 6\. Run the generated JAR file.
 
+## Rebase Practice
+
+This section is created for practicing Git rebase.
+
